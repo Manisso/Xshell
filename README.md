@@ -1,16 +1,22 @@
 # Xshell
 ~ Shell Finder By Ⓜ Ⓐ Ⓝ Ⓘ Ⓢ Ⓢ Ⓞ  ☪ ~
 # Description:
-Advanced Shell Finder Powered By Manisso To Use The Xshell No Installed Version You just have To tape in terminal 
+Xshell is a simple script in perl to find Web Sehll uploaded Web site
+#How to Dowload
+Open your terminal and type the following commands:
 
-root@root$:perl Xshell.pl
+[✓] git clone https://github.com/Manisso/Xshell.git
 
-~ Shell Finder By Ⓜ Ⓐ Ⓝ Ⓘ Ⓢ Ⓢ Ⓞ  ☪ ~
+[✓] cd Xshell
 
-#Say 1.2.3 viva l'Algerie                                                
-                                               
- say Bismillah And Add Website Target . ツ
- 
-Ex: www.Israel.com or www.Isreal.com/path
+[◉] sudo bash install.sh
 
- -> 
+#How to use
+
+After installation you can use the following commands:
+
+[✔] Type on terminal: xshell
+
+[✔] Type your target
+
+[◉] Ex: www.Israel.com or www.Isreal.com/path
