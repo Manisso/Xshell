@@ -11,11 +11,28 @@ Open your terminal and type the following commands:
 
 [◉] sudo bash install.sh
 
+#On Windows 
+[✔] Download [Perl](http://www.activestate.com/activeperl/downloads).
+
+[✓] Download [Xshell.Zip](https://github.com/Manisso/Xshell/archive/master.zip)
+
+[✓] Extract it into Desktop
+
+[◉]Open CMD and type the following commands:
+
+[✓] $cd Desktop/Xshell-master/
+
+[✓] $perl Xshell.pl
+
+
+
 #How to use
 
-After installation you can use the following commands:
+ After installation you can use the following commands:
 
 [✔] Type on terminal: xshell
+
+[✔] Type on CMD: perl Xshell.pl
 
 [✔] Type your target
 
