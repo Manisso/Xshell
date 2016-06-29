@@ -24,13 +24,13 @@ fi
 echo "[✔] Where Do you want to install the tool? [Ex:/usr/share/doc]:";
 read refdir
 echo "[✔] Checking directories..."
-if [ -d "$refdir/Manisso-Tools" ] ;
+if [ -d "$refdir/Manisso-Xshell" ] ;
 then
-echo "[◉] A directory Manisso-Tools was found! Do you want to replace it? [Y/n]:" ; 
+echo "[◉] A directory Manisso-Xshell was found! Do you want to replace it? [Y/n]:" ; 
 read mama
 if [ $mama == "y" ] ; 
 then
- rm -R "$refdir/Manisso-Tools"
+ rm -R "$refdir/Manisso-Xshell"
 else
  exit
 fi
@@ -38,15 +38,15 @@ fi
 
  echo "[✔] Installing ...";
  echo "";
- git clone https://github.com/Manisso/Xshell.git $refdir/Manisso-Tools;
+ git clone https://github.com/Manisso/Xshell.git $refdir/Manisso-Xshell;
  echo "#!/bin/bash 
- perl $refdir/Manisso-Tools/xshell.pl" '${1+"$@"}' > xshell;
+ perl $refdir/Manisso-Xshell/xshell.pl" '${1+"$@"}' > xshell;
  chmod +x xshell;
  sudo cp xshell /usr/bin/;
  rm xshell;
 
 
-if [ -d "$refdir/Manisso-Tools" ] ;
+if [ -d "$refdir/Manisso-Xshell" ] ;
 then
 echo "";
 echo "[✔]Tool istalled with success![✔]";
