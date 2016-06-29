@@ -16,7 +16,7 @@ Open your terminal and type the following commands:
 
 [✓] Download [Xshell.Zip](https://github.com/Manisso/Xshell/archive/master.zip)
 
-[✓] Extract it into Desktop
+[✓] Extract [Xshell.Zip](https://github.com/Manisso/Xshell/archive/master.zip) into Desktop
 
 [◉]Open CMD and type the following commands:
 
