@@ -20,3 +20,5 @@ After installation you can use the following commands:
 [✔] Type your target
 
 [◉] Ex: www.Israel.com or www.Isreal.com/path
+
+![alt tag](http://i.makeagif.com/media/6-29-2016/HFkJS8.gif)
