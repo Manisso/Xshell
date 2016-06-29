@@ -40,7 +40,7 @@ fi
  echo "";
  git clone https://github.com/Manisso/Xshell.git $refdir/Manisso-Xshell;
  echo "#!/bin/bash 
- perl $refdir/Manisso-Xshell/xshell.pl" '${1+"$@"}' > xshell;
+ perl $refdir/Manisso-Xshell/Xshell.pl" '${1+"$@"}' > xshell;
  chmod +x xshell;
  sudo cp xshell /usr/bin/;
  rm xshell;
