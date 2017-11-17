@@ -41,5 +41,5 @@ Open your terminal and type the following commands:
 
 ![alt tag](http://img15.hostingpics.net/pics/563715Screenshot291610160816062016CET042104.png)
 
-#Logo
+# Logo
 ![alt tag](https://media.giphy.com/media/3o72Fi2tOJRVTbApd6/giphy.gif)
