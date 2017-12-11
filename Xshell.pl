@@ -17,7 +17,7 @@ system('clear');
 system('clear');
 system('clear');
 system('cls');
-system('title  Control Panel Finder');
+system('title  Control Shell Finder');
 system "color c";
 print "
 ███╗   ███╗ █████╗ ███╗   ██╗██╗███████╗███████╗ ██████╗
